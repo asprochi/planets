@@ -4,8 +4,4 @@ The two moons may be a problem for Wolfman.
 The Mummy will appreciate the lack of humidity.
 Wolfman suggests Venus as a base.
 An ill-considered change to the file.
-<<<<<<< HEAD
 Adding a line for a conflict.
-=======
-beautiful place
->>>>>>> fa720a1fad427dccaf58b11a1fbb2cda40bbb558
